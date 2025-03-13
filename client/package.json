@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.com/ashishjha950/URL-Shortener/tree/main/client",
+  "homepage": "https://github.com/ashishjha950/UrlShortener",
   "name": "client",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
